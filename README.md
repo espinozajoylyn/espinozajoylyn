@@ -21,7 +21,7 @@ Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoylynEspinoza | LinkedIn" width="22px" src="https://www.linkedin.com/in/joylynespinoza/" />][linkedin]
+[<img align="left" alt="JoylynEspinoza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/joylynespinoza
