@@ -13,14 +13,14 @@
 
 <h2>🎓 Academic Achievement</h2>
 
-- [Masters in Information Technology](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Graduate Diploma in Information Technology](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Graduate Cerificate in Information Technology](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Bachelor of Science in Information Technology](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Masters in Information Technology](https://drive.google.com/file/d/1J7Uzx314wQBGhzqKEqV8ruRSDOxBjHOY/view?usp=sharing)
+- [Graduate Diploma in Information Technology](https://drive.google.com/file/d/1Hd_iTOymZ6W_rL_NJ1Yj88oycpOmHDFJ/view?usp=sharing)
+- [Graduate Cerificate in Information Technology](https://drive.google.com/file/d/1Il_TN3oygdivC_-CsTDVze9hMdhppJ5r/view?usp=sharing)
+- [Bachelor of Science in Information Technology](https://drive.google.com/file/d/1fMPBaKWgbNljMpTSRd1veUjRWrwzCb1d/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joylyn Espinoza | LinkedIn" width="22px" src="https://www.linkedin.com/in/joylynespinoza/" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/joshmadakor
