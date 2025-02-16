@@ -19,15 +19,16 @@ Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands
 - [Graduate Cerificate in Information Technology](https://drive.google.com/file/d/1Il_TN3oygdivC_-CsTDVze9hMdhppJ5r/view?usp=sharing)
 - [Bachelor of Science in Information Technology](https://drive.google.com/file/d/1fMPBaKWgbNljMpTSRd1veUjRWrwzCb1d/view?usp=sharing)
 
+
+<h2> 📫 How to reach me:</h2>
+
+Email: espinozajoylyn@gmail.com
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoylynEspinoza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/joylynespinoza
-
-<h2> 📫 How to reach me:</h2>
-
-Email: espinozajoylyn@gmail.com
   
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
