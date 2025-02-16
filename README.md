@@ -1,5 +1,5 @@
 <h1>Hi, I'm Joy! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
-Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands-on experience in technical support, real-time analytics, and customer service. I specialize in identifying security vulnerabilities, troubleshooting hardware/software challenges, and supporting medical imaging systems. I’m passionate about learning more and expanding my expertise in cybersecurity.
+Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands-on experience in technical support, real-time analytics, and customer service. I specialise in identifying security vulnerabilities, troubleshooting hardware and software challenges, and supporting various systems. I’m passionate about learning more and expanding my expertise in cybersecurity.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,7 +21,7 @@ Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Joylyn Espinoza | LinkedIn" width="22px" src="https://www.linkedin.com/in/joylynespinoza/" />][linkedin]
+[<img align="left" alt="JoylynEspinoza | LinkedIn" width="22px" src="https://www.linkedin.com/in/joylynespinoza/" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/joylynespinoza
