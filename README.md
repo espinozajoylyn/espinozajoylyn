@@ -8,7 +8,7 @@
 <h2>📃 Certifications</h2>
 
 - [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cisco Networking Academy](https://www.credly.com/badges/3a11d17f-b269-4399-bc1a-6aaec2e64c3b/public_url)
+- [Cisco Networking Academy: Introduction to Cybersecurity](https://www.credly.com/badges/3a11d17f-b269-4399-bc1a-6aaec2e64c3b/public_url)
 
 
 <h2>🎓 Academic Achievement</h2>
