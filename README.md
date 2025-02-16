@@ -1,5 +1,5 @@
 <h1>Hi, I'm Joy! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
-Welcome to my portfolio! I’m Joy, a detail-oriented IT professional with hands-on experience in technical support, real-time analytics, and customer service. I specialise in identifying security vulnerabilities, troubleshooting hardware and software challenges, and supporting various systems. I’m passionate about learning more and expanding my expertise in cybersecurity.
+Welcome to my portfolio! My name is Joy. I'm a detail-oriented IT professional with hands-on experience in technical support, real-time analytics, and customer service. I specialise in identifying security vulnerabilities, troubleshooting hardware and software challenges, and supporting various systems. I’m passionate about learning more and expanding my expertise in cybersecurity.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
