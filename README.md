@@ -12,7 +12,7 @@ Welcome to my portfolio! My name is Joy. I'm a detail-oriented IT professional w
 - [Cisco Networking Academy: Introduction to Cybersecurity](https://www.credly.com/badges/3a11d17f-b269-4399-bc1a-6aaec2e64c3b/public_url)
 
 
-<h2>🎓 Academic Achievement</h2>
+<h2>🎓 Academic Achievements</h2>
 
 - [Masters in Information Technology](https://drive.google.com/file/d/1J7Uzx314wQBGhzqKEqV8ruRSDOxBjHOY/view?usp=sharing)
 - [Graduate Diploma in Information Technology](https://drive.google.com/file/d/1Hd_iTOymZ6W_rL_NJ1Yj88oycpOmHDFJ/view?usp=sharing)
