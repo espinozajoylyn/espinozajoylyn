@@ -23,7 +23,7 @@
 [<img align="left" alt="Joylyn Espinoza | LinkedIn" width="22px" src="https://www.linkedin.com/in/joylynespinoza/" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joylynespinoza
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
